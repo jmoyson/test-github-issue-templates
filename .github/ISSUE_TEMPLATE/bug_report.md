@@ -1,38 +1,47 @@
 ---
-name: Bug report
+name: 🐛 Bug Report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: '🐛 [bug]: <title>'
+labels: [bug, triage]
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Thank you for taking the time to fill out this bug report properly.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+## Is there an existing issue for this?
+
+Please search [here](../issues?q=is%3Aissue) to see if an issue already exists for the bug you encountered.
+
+- [ ] I have searched the existing issues
+
+
+## Current behavior
+
+A concise description of what you're experiencing and what you expect:
+
+When I do <X>, <Y> happens and I see the error message attached below:  
+```...```  
+What I expect is <Z>  
+
+## Steps to reproduce
+
+Add steps to reproduce this behaviour, include console or network logs and screenshots:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See error 
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Environment
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+- [ ] Production (api.usealto.com)
+- [ ] Deploy preview (api-test-develop.usealto.com)
+- [ ] Developement (local) 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Version
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+V1
 
-**Additional context**
+## Additional context
+
 Add any other context about the problem here.

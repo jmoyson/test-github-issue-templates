@@ -1,8 +1,8 @@
 ---
-name: 🐛 Bug Report
-about: Create a report to help us improve
+name: '🐛 Bug Report'
+about: 'Create a report to help us improve'
 title: '🐛 [bug]: <title>'
-labels: [bug, triage]
+labels: ['bug', 'triage']
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: '🐛 Bug Report'
-about: 'Create a report to help us improve'
+about: 'Create a bug report to help us improve Alto API'
 title: '🐛 [bug]: <title>'
 labels: ['bug', 'triage']
 

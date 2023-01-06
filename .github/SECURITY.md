@@ -4,7 +4,7 @@ The goal of this security policy is to ensure that the project is secure and tha
 
 ## Reporting a Vulnerability
 
-If you have discovered a potential security vulnerability, please report it to us as soon as possible. You can reach the maintainers by emailing [tech@usealto.com](mailto:tech@usealto.com). 
+If you have discovered a potential security vulnerability, please report it to us as soon as possible. You can reach the maintainers by emailing [security@jmoyson.com](mailto:security@jmoyson.com). 
 
 ## Responsible Disclosure
 

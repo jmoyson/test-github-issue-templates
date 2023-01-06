@@ -1,6 +1,6 @@
-# Contributing to jmoyson API
+# Contributing to Alto API
 
-We welcome contributions to jmoyson API ! If you have an idea for a feature, bug fix, or other improvement, we encourage you to create an issue or pull request.
+We welcome contributions to Alto API ! If you have an idea for a feature, bug fix, or other improvement, we encourage you to create an issue or pull request.
 
 ## Submitting an Issue
 
@@ -10,7 +10,7 @@ When creating an issue, please provide a clear and concise description of the pr
 
 ## Submitting a Pull Request
 
-If you would like to contribute code to jmoyson API, we welcome pull requests. 
+If you would like to contribute code to Alto API, we welcome pull requests. 
 
 Before submitting a pull request, please make sure to do the following:
 
@@ -19,4 +19,4 @@ Before submitting a pull request, please make sure to do the following:
 3. Write unit tests for your code, if applicable.
 4. Run the existing tests to ensure that they all pass.
 
-Thank you for your contribution to jmoyson API!
+Thank you for your contribution to Alto API!

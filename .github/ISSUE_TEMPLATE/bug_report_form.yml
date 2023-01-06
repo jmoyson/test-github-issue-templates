@@ -1,4 +1,4 @@
-name: "🐛 Bug Report"
+name: "🐛 Bug Report (form)"
 description: Create a bug report to help us improve Alto API
 title: "🐛 [bug]: <title>"
 labels: ["bug", "triage"]
